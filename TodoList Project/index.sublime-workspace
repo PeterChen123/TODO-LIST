@@ -1,0 +1,384 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-right\tproperty"
+			],
+			[
+				"left",
+				"margin-left\tproperty"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"square",
+				"squares"
+			],
+			[
+				"mode",
+				"modeButtons"
+			],
+			[
+				"que",
+				"querySelectorAll"
+			],
+			[
+				"mess",
+				"messageDisplay"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"num",
+				"numSquares"
+			],
+			[
+				"colo",
+				"colors"
+			],
+			[
+				"cl",
+				"clicked"
+			],
+			[
+				"pick",
+				"pickedColor"
+			],
+			[
+				"gene",
+				"generateRandomColors"
+			],
+			[
+				"reset",
+				"resetButton"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"clicked",
+				"clickedColor"
+			],
+			[
+				"random",
+				"randomColor"
+			],
+			[
+				"color",
+				"colors"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"mes",
+				"messageDisplay"
+			],
+			[
+				"suqa",
+				"squares"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"wi",
+				"winningScore"
+			],
+			[
+				"winn",
+				"winningScoreDisplay"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"c",
+				"classList"
+			],
+			[
+				"p1",
+				"p1Display"
+			],
+			[
+				"p2",
+				"p2Display"
+			],
+			[
+				"se",
+				"secreteNumber"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"firs",
+				"firstname"
+			],
+			[
+				"pr",
+				"prompt"
+			],
+			[
+				"nav",
+				"nav-link"
+			],
+			[
+				"bak",
+				"background-size\tproperty"
+			],
+			[
+				"paddi",
+				"padding-top\tproperty"
+			],
+			[
+				"navbar",
+				"navbar-nav"
+			],
+			[
+				"bo",
+				"Bootstrap"
+			],
+			[
+				"backg",
+				"background-image\tproperty"
+			],
+			[
+				"paddin",
+				"padding-bottom\tproperty"
+			],
+			[
+				"text",
+				"text-transform\tproperty"
+			],
+			[
+				"mari",
+				"margin\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/HTML Study/Test/Exercise.js",
+		"/E/HTML Study/Test/Exercise.html",
+		"/E/HTML Study/Museum of Candy/Starter/index.html",
+		"/E/HTML Study/Museum of Candy/index.html",
+		"/E/HTML Study/Museum of Candy/Starter/app.css",
+		"/E/HTML Study/Museum of Candy/bootstrap.css",
+		"/E/HTML Study/ColorGame/colorGame.css",
+		"/E/HTML Study/ColorGame/colorGame.html",
+		"/E/HTML Study/ColorGame/colorGame.js",
+		"/C/Users/Guanyu Chen/Desktop/patatapCloneSolutionFiles/CodeAlong 4/paper-full.js",
+		"/C/Users/Guanyu Chen/Desktop/patatapCloneSolutionFiles/CodeAlong 4/data.js",
+		"/C/Users/Guanyu Chen/Desktop/patatapCloneSolutionFiles/CodeAlong 4/circles.css",
+		"/C/Users/Guanyu Chen/Desktop/patatapCloneSolutionFiles/CodeAlong 4/circles.html",
+		"/E/HTML Study/A.html",
+		"/E/HTML Study/A.css",
+		"/C/Users/Guanyu Chen/Desktop/ColorGameSolution-Part-4/ColorGameSolution - Part 4/colorGame.js",
+		"/C/Users/Guanyu Chen/Desktop/ColorGameSolution-Part-4/ColorGameSolution - Part 4/colorGame.html",
+		"/C/Users/Guanyu Chen/Desktop/ColorGameSolution-Part-4/ColorGameSolution - Part 4/colorGame.css",
+		"/E/HTML Study/scorekeeper.css",
+		"/E/HTML Study/ScoreKeeper.html",
+		"/E/HTML Study/scorekeeper.js",
+		"/E/HTML Study/JavaScript/game.html",
+		"/E/HTML Study/JavaScript/game.js",
+		"/E/HTML Study/JavaScript/script.js",
+		"/E/HTML Study/JavaScript/index.html",
+		"/E/HTML Study/Basics/app.css",
+		"/E/HTML Study/Basics/index.html",
+		"/E/HTML Study/Basics/basics.html",
+		"/E/HTML Study/Basics/grid.html",
+		"/E/HTML Study/Basics/navbars.html",
+		"/E/HTML Study/Basics/bootstrap.css",
+		"/E/HTML Study/photoGrid.html",
+		"/E/HTML Study/photos.css",
+		"/E/HTML Study/blog.css",
+		"/E/HTML Study/blog.html",
+		"/E/Unity/CodeIntroduction/Assets/Cube.cs"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
